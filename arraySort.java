@@ -1,3 +1,4 @@
+package Recursion_Class_2;
 import java.util.*;
 public class arraySort {
     public static void inputArr(int i, int n, int arr[]){

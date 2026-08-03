@@ -1,3 +1,4 @@
+package Recursion_Class_2;
 public class binarySearch {
     public static void printArr(int i, int n, int arr[]){
         for(i=0; i<n; i++){
